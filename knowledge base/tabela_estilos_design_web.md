@@ -1,4 +1,3 @@
-
 # 🌐 Tabela de Estilos de Design Web Modernos
 
 Esta tabela reúne os principais estilos de design usados na web atual, com características, recomendações de uso, público-alvo, exemplos reais, repositórios/templates e prompts prontos para uso com AIs de geração de código.
