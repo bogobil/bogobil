@@ -99,7 +99,7 @@
 ### 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bogobil/bogobil/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bogobil/bogobil/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
