@@ -1,0 +1,27 @@
+# Claude Code
+.claude/
+.superpowers/
+
+# Obsidian
+.obsidian/
+*.obsidian
+
+# Specs and plans (local dev docs)
+docs/superpowers/
+
+# Knowledge base (Obsidian notes)
+knowledge base/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Node
+node_modules/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
