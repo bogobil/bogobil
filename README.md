@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5429CC,100:2EA043&height=200&section=header&text=MARCELO%20BOGOBIL&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%26%20IT%20Process%20Manager&descSize=16&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5429CC,100:2EA043&height=200&section=header&text=MARCELO%20BOGOBIL&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20IT%20Process%20Manager&descSize=16&descAlignY=65" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bogobil&style=flat&color=58a6ff&label=Profile+Views" alt="Profile views" />
@@ -57,7 +57,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bogobil&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=bogobil&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
