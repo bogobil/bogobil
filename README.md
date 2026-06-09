@@ -40,8 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bogobil&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogobil&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-bogobil-projects.vercel.app/api?username=bogobil&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats" />
 </p>
 
 ---
@@ -67,32 +66,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bogobil&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
-
----
-
-<details>
-<summary>📂 Featured Projects</summary>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/bogobil/mac-cleaner-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bogobil&repo=mac-cleaner-cli&theme=github_dark&hide_border=true" alt="mac-cleaner-cli" />
-  </a>
-  <a href="https://github.com/bogobil/brasileirao-serie-a-2025-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bogobil&repo=brasileirao-serie-a-2025-simulator&theme=github_dark&hide_border=true" alt="brasileirao-serie-a-2025-simulator" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/bogobil/VidaFinanceira">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bogobil&repo=VidaFinanceira&theme=github_dark&hide_border=true" alt="VidaFinanceira" />
-  </a>
-  <a href="https://github.com/bogobil/agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bogobil&repo=agents&theme=github_dark&hide_border=true" alt="agents" />
-  </a>
-</p>
-
-</details>
 
 ---
 

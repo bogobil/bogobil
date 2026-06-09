@@ -25,3 +25,7 @@ node_modules/
 # IDE
 .vscode/
 .idea/
+
+# Local artifacts (screenshots/snapshots de design)
+github-profile-*.png
+profile-snapshot.md
