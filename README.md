@@ -2,10 +2,10 @@
 
 ### 🧑‍💻 About Me
 
-**Full Stack Developer & IT Process Manager** — turning business processes into software since 2010.
+**Full Stack Developer & IT Process Manager**, turning business processes into software since 2010.
 
 - 🏗️ I build web products end-to-end with **React, TypeScript, Next.js & Supabase**
-- ⚙️ I bridge **engineering and IT operations** — from architecture to process automation
+- ⚙️ I bridge **engineering and IT operations**, from architecture to process automation
 - 📍 Barcelona, Spain · 🌐 PT · ES · EN
 - 📫 **bogobil@gmail.com**
 
