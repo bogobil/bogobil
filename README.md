@@ -1,24 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5429CC,100:2EA043&height=200&section=header&text=MARCELO%20BOGOBIL&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20IT%20Process%20Manager&descSize=16&descAlignY=65" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bogobil&style=flat&color=58a6ff&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+modern+web+experiences+with+React+%26+Next.js;Full+Stack+Developer+based+in+Barcelona;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Supabase" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ### 🧑‍💻 About Me
 
-- 🏠 Based in **Barcelona, Spain**
-- 💼 **Full Stack Developer & IT Process Manager**
-- 🚀 Currently working with **React, TypeScript, Next.js & Supabase**
-- 🌐 Fluent in **Portuguese, Spanish & English**
-- 📫 Reach me at **bogobil@gmail.com**
+**Full Stack Developer & IT Process Manager** — turning business processes into software since 2010.
+
+- 🏗️ I build web products end-to-end with **React, TypeScript, Next.js & Supabase**
+- ⚙️ I bridge **engineering and IT operations** — from architecture to process automation
+- 📍 Barcelona, Spain · 🌐 PT · ES · EN
+- 📫 **bogobil@gmail.com**
 
 ---
 
@@ -41,38 +30,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-bogobil-projects.vercel.app/api?username=bogobil&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bogobil&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=bogobil&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bogobil&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-### 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bogobil/bogobil/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
